@@ -10,7 +10,7 @@
 - 📫 How to reach me **prathyakshprathu@gmail.com**
 
 <!------------------------ Gif --------------------->
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif">
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratx08&show_icons=true&locale=en" alt="pratx08" /></p>
