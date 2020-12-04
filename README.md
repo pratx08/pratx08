@@ -18,8 +18,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pratx08&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=ff0000&bg_color=1d1f21" alt="Prathyaksh's GitHub Stats" />
 </a>
 
+<br/><br/>
 <a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratx08&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" margin-left="3%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratx08&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="10%"/>
 </a>
 
 <h3 align="left">Languages and Tools:</h3>
