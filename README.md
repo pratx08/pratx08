@@ -1,8 +1,7 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hello there 👋, I'm Prathyaksh</h1>
+<h3 align="center">A Confused Coder</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratx08&label=Profile%20views&color=0e75b6&style=flat" alt="pratx08" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratx08" alt="pratx08" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
