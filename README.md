@@ -1,10 +1,16 @@
+<img src="https://lh3.googleusercontent.com/vyUlsNqkERsituhWwUWK2B8yrqnaW-n28sxEXudb8RAAOyLTr6c_BUE_UqTuKQdM3kahJg=s1500" width="3000px" height="250px" align="center">
 <h1 align="center">Hello there 👋, I'm Prathyaksh</h1>
 <h3 align="center">A Confused Coder</h3>
 
+<!----------------------- VIEWS -------------------->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratx08&label=Profile%20views&color=0e75b6&style=flat" alt="pratx08" /> </p>
 
+- 👨‍💻 You can also check out my portfolio [here](https://pratx08.github.io/portfolio.github.io/)
 
+- 📫 How to reach me **prathyakshprathu@gmail.com**
 
+<!------------------------ Gif --------------------->
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif">
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratx08&show_icons=true&locale=en" alt="pratx08" /></p>
