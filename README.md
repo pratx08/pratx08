@@ -14,13 +14,13 @@
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif">
 
 
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pratx08&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=ff0000&bg_color=1d1f21" alt="Prathyaksh's GitHub Stats" />
+<a href="https://github.com/pratx08">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pratx08&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ff0000&bg_color=000000" alt="Prathyaksh's GitHub Stats" />
 </a>
 
 <br/><br/>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratx08&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="10%"/>
+<a href="https://github.com/pratx08">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratx08&hide=java,html&title_color=ffffff&text_color=ffffff&icon_color=ff0000&bg_color=000000" height="10%"/>
 </a>
 
 <h3 align="left">Languages and Tools:</h3>
