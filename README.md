@@ -1,5 +1,5 @@
 <img src="https://lh3.googleusercontent.com/vyUlsNqkERsituhWwUWK2B8yrqnaW-n28sxEXudb8RAAOyLTr6c_BUE_UqTuKQdM3kahJg=s1500" width="3000px" height="250px" align="center">
-<h1 align="center">Hello there 👋, I'm Prathyaksh</h1>
+<h1 align="center">Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Prathyaksh</h1>
 <h3 align="center">A Confused Coder</h3>
 
 <!----------------------- VIEWS -------------------->
@@ -19,8 +19,9 @@
 </a>
 
 <br/><br/>
-<a href="https://github.com/pratx08">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratx08&hide=java,html&title_color=ffffff&text_color=ffffff&icon_color=ff0000&bg_color=000000" height="10%"/>
+
+<a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pratx08&repo=pratx08.github.io&text_color=ffffff&bg_color=000000" width="52%"/>
 </a>
 
 <h3 align="left">Languages and Tools:</h3>
