@@ -11,7 +11,7 @@
 - 📫 How to reach me **prathyakshprathu@gmail.com**
 
 <!------------------------ Gif --------------------->
-<img align="right" alt="Coding" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="330">
+<img align="right" alt="Coding" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="335">
 
 
 <a href="https://github.com/pratx08">
