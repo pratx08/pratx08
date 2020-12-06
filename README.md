@@ -11,17 +11,17 @@
 - 📫 How to reach me **prathyakshprathu@gmail.com**
 
 <!------------------------ Gif --------------------->
-<img align="right" alt="Coding" width="300" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320">
+<img align="right" alt="Coding" width="300" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="900" height="300">
 
 
 <a href="https://github.com/pratx08">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pratx08&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ff0000&bg_color=000000" alt="Prathyaksh's GitHub Stats" />
 </a>
 
-<br/><br/>
+<br/>
 
 <a href="https://">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pratx08&repo=portfolio.github.io&title_color=ffffff&text_color=c9cacc&icon_color=ffff00&bg_color=000000" width="51%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pratx08&repo=portfolio.github.io&title_color=ffffff&text_color=c9cacc&icon_color=ffff00&bg_color=000000" width="50%"/>
 </a>  
 
 <h3 align="left">Languages and Tools:</h3>
