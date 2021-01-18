@@ -21,7 +21,7 @@
 <br/><br/>
 
 <a href="https://pratx08.github.io/.github.io/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pratx08&repo=portfolio.github.io&title_color=ffffff&text_color=c9cacc&icon_color=ffff00&bg_color=000000" width="48%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pratx08&repo=.github.io&title_color=ffffff&text_color=c9cacc&icon_color=ffff00&bg_color=000000" width="48%"/>
 </a>  
 
 <h3 align="left">Languages and Tools:</h3>
